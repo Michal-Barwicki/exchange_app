@@ -5,6 +5,8 @@ In this project user can create account and then login to main panel where he ca
 ## Installation
 
 1. Clone the repo,
+### `git clone https://github.com/Michal-Barwicki/exchange_app.git`
+
 2. Instal npm packages
 
 ### `npm install`
