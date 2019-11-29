@@ -17,7 +17,7 @@ In this project user can create account and then login to main panel where he ca
 
 4. Run index.js
 
-### `node run index.js`
+### `node index.js`
 
 5.  When the server is started, visit
 
